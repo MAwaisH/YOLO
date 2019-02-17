@@ -1,4 +1,12 @@
-# YOLO
-yolo object detection and thrift
-Thrift and Object detection module in single file
-to run this module Generate Thrift code for python and place that file in your generated python code change the ip in object_detection2.py file 
+To run Object_detection2.py
+
+Before running Yolo
+1. install opencv 3.4.2
+2. python version >=3.5.2
+
+For Thrift:
+change the ip in thrift code of your destination IP.
+
+For YOLO:
+please download yolov3.weights link is below and place in that folder
+#  wget https://pjreddie.com/media/files/yolov3.weights
